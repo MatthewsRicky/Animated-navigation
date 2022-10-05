@@ -6,4 +6,6 @@
 
 body {
   background-color: rgb(105, 221, 221);
+  display: flex;
+  
 }
